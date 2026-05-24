@@ -1,0 +1,6 @@
+{
+  "name": "Sheets Expense",
+  "description": "A modern offline-first daily expense tracker with interactive monthly budget visualizations and automatic Google Sheets synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
